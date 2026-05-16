@@ -89,5 +89,5 @@ The SVD-based Collaborative Filtering is evaluated using **RMSE** on an 80/20 tr
 ##  Author
 
 **Saikot**  
-MSc in Data Science — AIUB  
+MSc in Data Science - AIUB  
 GitHub: [@Saikot313](https://github.com/Saikot313)
