@@ -1,6 +1,6 @@
 # Movie Recommendation System
 
-A machine learning project that implements three recommendation approaches — Content-Based Filtering, Collaborative Filtering, and a Hybrid system — using the MovieLens dataset.
+A machine learning project that implements three recommendation approaches - Content-Based Filtering, Collaborative Filtering, and a Hybrid system - using the MovieLens dataset.
 
 ---
 
